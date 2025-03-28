@@ -1,10 +1,8 @@
 ## Hi there 👋, Meu nome é Fabio Mendes;
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/> 
-Tenho 45 anos e sou de São José do Rio Preto - SP - Brasil;
-🌱 I’m currently learning ...Ciência de Dados pela escola EBAC 
+--> Tenho 45 anos e sou de São José do Rio Preto - SP - Brasil;
+🌱 I’m currently studying Ciência de Dados pela escola EBAC and working how Consultor Técnico de Vendas de veículos utilitários elétricos.
 ### Main skills: Python e SQL 
-
-
 
 <!--
 **GithubFabioTobias/GithubFabioTobias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
