@@ -1,5 +1,5 @@
 ## Hi there 👋, Meu nome é Fabio Mendes;
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/> [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lin 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lin 
 Tenho 45 anos e sou de São José do Rio Preto - SP - Brasil;
 🌱 I’m currently learning ...Ciência de Dados pela escola EBAC 
 ### Main skills: Python e SQL 
