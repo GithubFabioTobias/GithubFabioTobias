@@ -1,4 +1,4 @@
-## Hi there 👋, Meu nome é Fabio Mendes;
+## Olá👋, Meu nome é Fabio Mendes!
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 --> Tenho 45 anos e sou de São José do Rio Preto - SP - Brasil;
 🌱 I’m currently studying Ciência de Dados pela escola EBAC and working how Consultor Técnico de Vendas de veículos utilitários elétricos.
